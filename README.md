@@ -1,3 +1,8 @@
+# Spout CustomSlabs
+This is a fork with permission of the original CustomSlabs Spout plugin. Will get it working eventually
+
+Original README below
+
 This is the README of CustomSlabs  for Craftbukkit and Spout
 
 if you need more Informations or Help follow this links:
